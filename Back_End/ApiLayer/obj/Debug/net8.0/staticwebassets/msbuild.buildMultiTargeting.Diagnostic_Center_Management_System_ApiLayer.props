@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Diagnostic_Center_Management_System_ApiLayer.props" />
+</Project>

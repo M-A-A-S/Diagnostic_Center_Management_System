@@ -1,0 +1,35 @@
+.alert {
+  position: fixed;
+  bottom: 1rem;
+  right: 1rem;
+  background-color: #f4f4f4;
+  color: #333;
+  padding: 15px 20px;
+  border-radius: 5px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  z-index: 1000;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.alert-success {
+  background-color: #d4edda;
+  color: #155724;
+}
+.alert-error {
+  background-color: #f8d7da;
+  color: #721c24;
+}
+.alert-info {
+  background-color: #d1ecf1;
+  color: #0c5460;
+}
+.alert-close {
+  background: none;
+  border: none;
+  font-size: 1rem;
+  font-weight: bold;
+  cursor: pointer;
+  color: inherit;
+  margin-left: 0.5rem;
+}
