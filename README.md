@@ -11,7 +11,7 @@ This system provides secure authentication, optimized patient record management,
 - Lab test scheduling and tracking
 - Optimized SQL queries using stored procedures for better efficiency
 
-  ## 🛠 Tech Stack
+## 🛠 Tech Stack
 - **Frontend:** React  
 - **Backend:** ASP.NET Core Web API  
 - **Database:** SQL Server (Stored Procedures)  
