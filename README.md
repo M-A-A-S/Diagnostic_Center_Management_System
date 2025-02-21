@@ -20,4 +20,4 @@ This system provides secure authentication, optimized patient record management,
 - **Architecture:** N-Tier Architecture
 
 ## ✉️ Contact
-For any queries, reach out at [mohammedalfatih606@gmail.com](mailto:your-email@example.com)
+For any queries, reach out at [mohammedalfatih606@gmail.com](mailto:mohammedalfatih606@gmail)
